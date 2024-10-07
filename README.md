@@ -67,5 +67,8 @@ El usuario puede interactuar en las diferentes interfaces que tiene la pagina we
 
 ![image](https://github.com/user-attachments/assets/0905f8a2-ea32-42bf-807c-9d95215e5c51)
 
+![image](https://github.com/user-attachments/assets/3576b900-bd0f-4969-ad45-3df210c62789)
+
+
 
 
