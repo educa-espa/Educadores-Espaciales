@@ -1,7 +1,8 @@
-Space-Educators
+Educadores Espaciales
+
 -- Project Name --
 
-Space Educators.
+Educadores Espaciales.
 
 -- Features --
 
