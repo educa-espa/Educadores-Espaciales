@@ -1,75 +1,71 @@
-# Educadores-Espaciales
--- Nombre del proyecto --
+Space-Educators
+-- Project Name --
 
-Educadores Espaciales.
+Space Educators.
 
--- Características --
+-- Features --
 
-Sistema dinámico: La página web utiliza PHP para manejar la lógica del servidor y procesar las solicitudes dinámicas.
+Dynamic System: The website uses PHP to handle server-side logic and process dynamic requests.
 
-Interfaz moderna y responsiva: Diseño atractivo y adaptable a diferentes tamaños de pantalla gracias al uso de CSS y frameworks como Bootstrap.
+Modern and Responsive Interface: Attractive design that adapts to different screen sizes, thanks to the use of CSS and frameworks like Bootstrap.
 
-Interactividad: Usa JavaScript para agregar interacciones dinámicas y mejorar la experiencia del usuario.
+Interactivity: Uses JavaScript to add dynamic interactions and enhance the user experience.
 
--- Requisitos Previos --
+-- Prerequisites --
 
-Antes de instalar y ejecutar este proyecto, necesitas:
+Before installing and running this project, you need:
 
-Servidor Local: Un servidor como XAMPP para ejecutar PHP y MySQL.
+Local Server: A server like XAMPP to run PHP and MySQL.
 
-PHP: Versiones compatibles con el código del proyecto.
+PHP: Versions compatible with the project code.
 
-Git: Para clonar el repositorio y gestionar el control de versiones.
+Git: To clone the repository and manage version control.
 
-Zip: para descomprimir el archivo descargado.
+Zip: To unzip the downloaded file.
 
-Un navegador web actualizado para visualizar y probar la página web.
+An updated web browser to view and test the website.
 
--- Instalación --
+-- Installation --
 
-Clona este repositorio en tu máquina local:
+Clone this repository to your local machine:
 
-git clone https://github.com/tu-usuario/educadores-espaciales.git
+git clone https://github.com/your-user/space-educators.git
 
-Navegar al directorio del proyecto:
+Navigate to the project directory:
 
-cd tu-educadores-espaciales.
+cd your-space-educators
 
-Mover el proyecto al servidor local: Esta carpeta se llama htdocs. 
-Copia o mueve tu proyecto dentro de esa carpeta.
+Move the project to the local server: This folder is called htdocs. Copy or move your project into that folder.
 
-Para XAMPP en Windows:
-Ruta: C:\xampp\htdocs\tu-proyecto
+For XAMPP on Windows: Path: C:\xampp\htdocs\your-project
 
-Para WAMP:
-Ruta: C:\wamp64\www\tu-proyecto
+For WAMP: Path: C:\wamp64\www\your-project
 
-Acceder a la página web: Una vez que hayas movido los archivos al servidor local y Apache esté corriendo, abre tu navegador web y visita la siguiente URL:
-http://localhost/educadores-espaciales
+Access the website: Once you’ve moved the files to the local server and Apache is running, open your web browser and visit the following URL: http://localhost/space-educators
 
--- Uso --
+-- Usage --
 
-Una vez que la instalación esté completa, puedes utilizar la aplicación web de la siguiente manera:
+Once the installation is complete, you can use the web application as follows:
 
-Los usuarios pueden navegar a traves de las interfaces.
+Users can navigate through the interfaces.
 
-La interfaz es responsiva, por lo que se adapta tanto a dispositivos móviles como a pantallas más grandes.
+The interface is responsive, so it adapts to both mobile devices and larger screens.
 
---Estructura de Carpetas--
+-- Folder Structure --
 
-/css          - Archivos de estilo para personalizar la apariencia de la página web
+/css - Stylesheet files to customize the appearance of the website
 
-/js           - Archivos JavaScript para agregar funcionalidad dinámica en el frontend
+/js - JavaScript files to add dynamic functionality to the frontend
 
-/font         - Tipografia
+/font - Typography
 
-/img          - Contiene imagenes y videos
+/img - Contains images and videos
 
-/index.html    - Archivo principal que gestiona el acceso al sitio web
+/index.html - Main file that handles access to the website
 
--- Descripcion --
+-- Description --
 
-El usuario puede interactuar en las diferentes interfaces que tiene la pagina web, para que consulte informacion
+The user can interact with the different interfaces on the website to access information.
 
 ![image](https://github.com/user-attachments/assets/0905f8a2-ea32-42bf-807c-9d95215e5c51)
 
