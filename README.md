@@ -1,8 +1,9 @@
 # Educadores-Espaciales
---Nombre del proyecto--
+-- Nombre del proyecto --
+
 Educadores Espaciales.
 
---Características--
+-- Características --
 
 Sistema dinámico: La página web utiliza PHP para manejar la lógica del servidor y procesar las solicitudes dinámicas.
 
@@ -10,7 +11,7 @@ Interfaz moderna y responsiva: Diseño atractivo y adaptable a diferentes tamañ
 
 Interactividad: Usa JavaScript para agregar interacciones dinámicas y mejorar la experiencia del usuario.
 
---Requisitos Previos--
+-- Requisitos Previos --
 
 Antes de instalar y ejecutar este proyecto, necesitas:
 
@@ -24,12 +25,14 @@ Zip: para descomprimir el archivo descargado.
 
 Un navegador web actualizado para visualizar y probar la página web.
 
---Instalación--
+-- Instalación --
 
 Clona este repositorio en tu máquina local:
+
 git clone https://github.com/tu-usuario/educadores-espaciales.git
 
 Navegar al directorio del proyecto:
+
 cd tu-educadores-espaciales.
 
 Mover el proyecto al servidor local: Esta carpeta se llama htdocs. 
@@ -44,7 +47,7 @@ Ruta: C:\wamp64\www\tu-proyecto
 Acceder a la página web: Una vez que hayas movido los archivos al servidor local y Apache esté corriendo, abre tu navegador web y visita la siguiente URL:
 http://localhost/educadores-espaciales
 
---Uso--
+-- Uso --
 
 Una vez que la instalación esté completa, puedes utilizar la aplicación web de la siguiente manera:
 
@@ -58,11 +61,14 @@ La interfaz es responsiva, por lo que se adapta tanto a dispositivos móviles co
 
 /js           - Archivos JavaScript para agregar funcionalidad dinámica en el frontend
 
-/php          - Archivos PHP que contienen la lógica del servidor
+/font         - Tipografia
+
+/img          - Contiene imagenes y videos
 
 /index.html    - Archivo principal que gestiona el acceso al sitio web
 
---Descripcion--
+-- Descripcion --
+
 El usuario puede interactuar en las diferentes interfaces que tiene la pagina web, para que consulte informacion
 
 ![image](https://github.com/user-attachments/assets/0905f8a2-ea32-42bf-807c-9d95215e5c51)
