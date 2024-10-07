@@ -35,5 +35,7 @@ Estructura de Carpetas
 /js           - Archivos JavaScript para agregar funcionalidad dinámica en el frontend
 /php          - Archivos PHP que contienen la lógica del servidor
 /index.html    - Archivo principal que gestiona el acceso al sitio web
+![image](https://github.com/user-attachments/assets/0905f8a2-ea32-42bf-807c-9d95215e5c51)
+
 
 
